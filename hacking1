@@ -1,0 +1,109 @@
+Reto I
+
+Dificultad: 0
+
+La contraseña para superar este reto es: la desconfianza es la madre de la seguridad
+
+Tendrás que calcular su hash md5 y ponerla en el formato de la plataforma, esto es: flag{md5}
+
+Por ejemplo: flag{378041508fcb2574e1724f8917369be9}
+
+81cbcaf0062aca78c469ee3557d64581
+
+
+-------------
+
+
+Reto II
+Dificultad: 0
+
+La contraseña para superar este reto es: Somos Anonymous, somos legión, no perdonamos, no olvidamos, espéranos
+
+Tendrás que calcular su hash sha256 y posteriormente calcular su md5 para poder poner la solución en el formato de la plataforma, esto es: flag{md5}
+
+3f71e032a6c043bcae0e2837877262e8
+
+------
+
+
+Reto III
+Dificultad: 0
+
+Para superar este reto deberás calcular la cadena de texto cuyo hash md5 se corresponde con el siguiente: 54f662a095fa3d5fbbdaac72d176701b
+
+masterofpuppets
+
+
+------
+
+
+Reto IV
+Dificultad: 0
+
+El código ASCII reserva los primeros 32 códigos (numerados del 0 al 31 en decimal) para caracteres de control: códigos no pensados originalmente para representar información imprimible, sino para controlar dispositivos (como impresoras) que usaban ASCII.
+
+Los códigos del 33 al 126 se conocen como caracteres imprimibles, y representan letras, dígitos, signos de puntuación y varios símbolos.
+
+Para pasar este reto deberás encontrar los caracteres correspondientes a la siguiente codificación ASCII:
+
+080 097 115 115 119 111 114 100 032 112 097 114 097 032 115 117 112 101 114 097 114 032 101 108 032 114 101 116 111 058 032 084 104 101 065 083 067 073 073 084 097 098 108 101 033
+
+Password para superar el reto: TheASCIITable!
+
+.........
+
+
+Reto V
+Dificultad: 0
+
+Para superar este reto tendrás que descodificar la contraseña en el formato de la plataforma, esto es: flag{md5}
+
+TG9zIHZlcmRhZGVyb3MgaGFja2VycyBzaWd1ZW4gdW4gY2llcnRvIGNvbmp1bnRvIGRlIHJlZ2xhcyDDqXRpY2FzLCBxdWUgbGVzIGltcGlkZW4gbHVjcmFyc2UgbyBjYXVzYXIgZGHDsW8gZW4gc3VzIGFjdGl2aWRhZGVz
+
+Los verdaderos hackers siguen un cierto conjunto de reglas éticas, que les impiden lucrarse o causar daño en sus actividades
+
+f0768c65ea72dcf06bea58f74bc4211c
+----------
+
+
+Reto VI
+Dificultad: 0
+
+Para pasar este reto deberás decodificar la siguiente cadena hexadecimal:
+
+50617373776f72643a2044346d7054686548337821
+
+Password: D4mpTheH3x!
+
+
+----------
+
+
+Reto VII
+Dificultad: 1
+
+Descarga el archivo que se encuentra en la carpeta "Reto 6" y cosigue la bandera
+
+Pista: Una imagen vale más que mil caracteres
+
+-------
+
+Reto VIII
+
+Ayúda a Cesar a descifrar el siguiente mensaje para encontrar el flag que te conduzca al siguiente nivel:
+
+Rpnd Yjaxd Réhpg, fjt th jcd st adh igth báh vgpcsth rpexipcth st ap Wxhidgxp rdc Patypcsgd Bpvcd n rdc Cpedatóc, th ipbqxéc jcd st adh igth báh rdchxstgpqath wxhidgxpsdgth apixcdh, rdc Rpnd Rgxhed Hpajhixd n rdc Ixid Axkxd, udgbpcsd ta tytbeapg igxjckxgpid sta etgídsd raáhxrd edg tmrtatcrxp, etgídsd ktgspstgpbtcit «ájgtd» st aph atigph apixcph.
+
+Hx wph advgpsd aatvpg wphip pfjí, ij gtrdbetchp htgá ap st hpqtg fjt ap rdcigphtñp epgp hjetgpg thit gtid th Ratdepigp. N Yjaxd Réhpg th idsd thid, ixtct ipa hxvcxuxrprxóc, egtrxhpbtcit rdbd wxhidgxpsdg st hí bxhbd, cpggpsdg st hjh egdexph wpopñph vjtggtgph n st hj edaíixrp.
+
+Cayo Julio Cpsar, que es uno de los tres mls grandes capitanes de la Historia con Alejandro Magno y con Napolezn, es tambipn uno de los tres mls considerables historiadores latinos, con Cayo Crispo Salustio y con Tito Livio, formando el ejemplar triunvirato del pertodo cllsico por excelencia, pertodo verdaderamente «lureo» de las letras latinas.
+
+Si has logrado llegar hasta aqut, tu recompensa serl la de saber que la contraseya para superar este reto es Cleopatra. Y Julio Cpsar es todo esto, tiene tal significacizn, precisamente como historiador de st mismo, narrador de sus propias hazayas guerreras y de su polttica.
+
+Cleopatra
+
+--------
+
+Reto IX
+
+
